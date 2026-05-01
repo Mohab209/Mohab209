@@ -29,7 +29,7 @@ Passionate about turning raw data into meaningful insights. I've worked with rea
 
 ## 🚀 Featured Projects
 
-### [ShopNile — End-to-End Data Analysis](https://github.com/Mohab209/ٍShopNile-Analysis-Using-Python)
+### [ShopNile — End-to-End Data Analysis](https://github.com/Mohab209/ShopNile-Analysis-Using-Python)
 > Python · Pandas · Streamlit · Plotly
 
 Built a full data pipeline from raw messy data to a live interactive dashboard. Covers 4 datasets (500 customers, 120 products, 3,000 orders, 3,050 payments), applied comprehensive data cleaning, and deployed publicly on Streamlit Cloud.
