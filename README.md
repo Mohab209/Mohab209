@@ -43,7 +43,7 @@ Analyzed $629.6M in net sales across a star schema model with 5 interrelated tab
 
 ---
 
-### [AdventureWorks Sales & Product Analytics](https://github.com/Mohab209/Sales-Product_Analutics-Project)
+### [AdventureWorks Sales & Product Analytics](https://github.com/Mohab209/Sales-Product-Analytics-Project)
 > Power BI · Power Query · DAX
 
 Identified peak sales months and flagged underperforming periods through time series analysis. Delivered geospatial and product-level insights via an interactive Power BI dashboard.
