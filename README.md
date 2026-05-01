@@ -6,7 +6,7 @@ Passionate about turning raw data into meaningful insights. I've worked with rea
 
 - 🔭 Currently working on data analysis projects using Python, Power BI, and SQL
 - 🌱 Pursuing the IBM Data Analyst Professional Certificate (Coursera)
-- 💼 Former Data Analyst Intern @ Semicolon Codes
+- 💼 Former Data Analyst Intern Semicolon Codes
 - 📫 Reach me at: mohab.ahmed.ntss@gmail.com
 
 ---
