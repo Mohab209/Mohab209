@@ -29,7 +29,7 @@ Passionate about turning raw data into meaningful insights. I've worked with rea
 
 ## 🚀 Featured Projects
 
-### [ShopNile — End-to-End Data Analysis](https://github.com/Mohab209/ShopNile-Analysis-Using-Python)
+### [ShopNile — End-to-End Data Analysis](https://github.com/Mohab209/ٍShopNile-Analysis-Using-Python)
 > Python · Pandas · Streamlit · Plotly
 
 Built a full data pipeline from raw messy data to a live interactive dashboard. Covers 4 datasets (500 customers, 120 products, 3,000 orders, 3,050 payments), applied comprehensive data cleaning, and deployed publicly on Streamlit Cloud.
@@ -43,7 +43,7 @@ Analyzed $629.6M in net sales across a star schema model with 5 interrelated tab
 
 ---
 
-### [AdventureWorks Sales & Product Analytics](https://github.com/Mohab209/Sales-Product-Analysis-Project)
+### [AdventureWorks Sales & Product Analytics](https://github.com/Mohab209/Sales-Product_Analutics-Project)
 > Power BI · Power Query · DAX
 
 Identified peak sales months and flagged underperforming periods through time series analysis. Delivered geospatial and product-level insights via an interactive Power BI dashboard.
@@ -59,9 +59,16 @@ Designed and implemented a normalized relational database with 4 tables. Wrote q
 
 ## 📊 GitHub Stats
 
-![Mohab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohab209&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Profile Views](https://komarev.com/ghpvc/?username=Mohab209&label=Profile+Views&color=0e75b6&style=flat)
+[![GitHub followers](https://img.shields.io/github/followers/Mohab209?label=Followers&style=flat&color=0e75b6)](https://github.com/Mohab209)
+[![GitHub stars](https://img.shields.io/github/stars/Mohab209?label=Total+Stars&style=flat&color=f1c40f)](https://github.com/Mohab209)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohab209&layout=compact&hide_border=true&theme=default)
+| Metric | Value |
+|---|---|
+| 💻 Focus Area | Data Analysis & Visualization |
+| 🛠️ Primary Tools | Python · Power BI · SQL · Excel |
+| 📁 Projects | 11 end-to-end analysis projects |
+| 🎓 Certifications | 3 completed · 1 in progress |
 
 ---
 
