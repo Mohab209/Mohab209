@@ -24,7 +24,7 @@ Passionate about turning raw data into meaningful insights. I've worked with rea
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3C7EBF?style=flat&logo=python&logoColor=white)
-
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ---
 
 ## 🚀 Featured Projects
