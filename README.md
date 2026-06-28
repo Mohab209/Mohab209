@@ -67,7 +67,7 @@ Designed and implemented a normalized relational database with 4 tables. Wrote q
 |---|---|
 | 💻 Focus Area | Data Analysis & Visualization |
 | 🛠️ Primary Tools | Python · Power BI · SQL · Excel |
-| 📁 Projects | 11 end-to-end analysis projects |
+| 📁 Projects | 12 end-to-end analysis projects |
 | 🎓 Certifications | 3 completed · 1 in progress |
 
 ---
